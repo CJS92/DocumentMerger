@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentMerger", "DocumentMerger\DocumentMerger.csproj", "{EFBABA8C-010D-4DCD-9D87-ED146B24D26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBABA8C-010D-4DCD-9D87-ED146B24D26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBABA8C-010D-4DCD-9D87-ED146B24D26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBABA8C-010D-4DCD-9D87-ED146B24D26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBABA8C-010D-4DCD-9D87-ED146B24D26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F251B2B8-1E35-4E64-B5B4-193D1913EF08}
+	EndGlobalSection
+EndGlobal
